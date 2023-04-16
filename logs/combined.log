@@ -1,0 +1,8 @@
+{"level":"info","message":"Parameters 12 and 6 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 12 and 6 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 12 and 6 received for addition","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 12 and 6 received for subtration","service":"calculate-service"}
+{"level":"info","message":"Parameters 12 and 6 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 12 and 6 received for multiplication","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
